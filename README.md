@@ -39,10 +39,4 @@ KeenKeeper is a personal relationship tracking web application built to help you
 
 ---
 
-## ⚙️ Installation & Setup
 
-Follow these steps to run KeenKeeper locally on your machine:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/KeenKeeper.git](https://github.com/YOUR_USERNAME/KeenKeeper.git)
