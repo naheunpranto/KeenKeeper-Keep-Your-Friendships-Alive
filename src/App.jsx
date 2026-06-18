@@ -4,7 +4,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import Navigation from './components/Navigation';
 import FooterSection from './components/FooterSection';
 import Home from './pages/Home';
-import FriendDetail from './pages/FriendDetail';
+import FriendDetail from './pages/FriendDetails';
 import Timeline from './pages/Timeline';
 import Stats from './pages/Stats';
 import NotFound from './pages/NotFound';

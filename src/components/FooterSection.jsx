@@ -3,7 +3,7 @@ import { BiLogoFacebookSquare } from 'react-icons/bi';
 import { FaXTwitter } from 'react-icons/fa6';
 import { RiInstagramFill } from 'react-icons/ri';
 import FooterLogo from '../assets/KeenKeeper.png';
-import { Link } from 'react-router';
+import { Link } from 'react-router-dom';
 
 const FooterSection = () => {
   return (
