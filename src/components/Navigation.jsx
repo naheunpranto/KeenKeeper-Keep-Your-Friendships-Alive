@@ -11,7 +11,7 @@ export default function Navigation() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="text-3xl font-bold tracking-tight text-emerald-700 hover:text-emerald-800 transition duration-300 cursor-pointer">
-            KeenKeeper
+            KeenKeeper!!!!
           </div>
 
           {/* Desktop Menu */}
