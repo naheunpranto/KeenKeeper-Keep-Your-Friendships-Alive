@@ -5,7 +5,7 @@ import Navigation from './components/Navigation';
 import FooterSection from './components/FooterSection';
 import Home from './pages/Home';
 import FriendDetail from './pages/FriendDetails';
-import Timeline from './pages/Timeline';
+import Timeline from './pages/TimeLine';
 import Stats from './pages/Stats';
 import NotFound from './pages/NotFound';
 
